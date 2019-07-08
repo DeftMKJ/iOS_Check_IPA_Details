@@ -9,15 +9,15 @@
 
 ## Usage ##
 1.下载
-```python
+```shell
 git clone git@github.com:DeftMKJ/iOS_Check_IPA_Details.git
 ```
 2.`cd`到项目
-```python
+```shell
 cd /Users/mikejing191/Downloads/iOS_Check_IPA_Details-master
 ```
 3.查看使用方式
-```python
+```shell
 python3 listipa.py --help
 
 Usage: listipa.py [options]
@@ -33,7 +33,7 @@ Options:
 ```
 
 4.使用Python3调用  `python3 listipa.py -i xxx.ipa`
-```python
+```shell
 python3 listipa.py -i /Users/mikejing191/Desktop/SmartPay_Example-IPA/SmartPay_Example-v1.4.1-b20190703142838.ipa
 
 ```
